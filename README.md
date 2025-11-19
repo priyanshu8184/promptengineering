@@ -1,3 +1,7 @@
+Priyanshu Kumar
+MCA 1st Sem
+Sage umiversity ,Indore
+
 # promptengineering
 #this project include 2 files one is of prompt engineering using streamlit with extension of .py and other is using jupyter with a extension of .ipynb
 # for promptengineering_CareerAdvisor.ipynb
